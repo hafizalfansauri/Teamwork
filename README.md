@@ -1,4 +1,5 @@
 # Teamwork
+<<<<<<< HEAD
 > A [Bespoke.js](http://markdalgleish.com/projects/bespoke.js) presentation, built with [generator-bespoke](https://github.com/markdalgleish/generator-bespoke)
 
 ## View slides locally
@@ -15,3 +16,5 @@ Then, install dependencies and run the preview server:
 $ npm install && bower install
 $ gulp serve
 ```
+=======
+>>>>>>> d849afa697cc668a3f7678d1e0a03ed0d5f74611
